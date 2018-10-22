@@ -1,6 +1,7 @@
 My scripts for Kaggle's "Quora Question Pairs" competition 
 Competition URL - https://www.kaggle.com/c/quora-question-pairs
-My Kaggle profile - - https://www.kaggle.com/svashishtha
+
+My Kaggle profile - https://www.kaggle.com/svashishtha
 
 How to run the scripts:
 1. Run all feature-engineering scripts in this order:
