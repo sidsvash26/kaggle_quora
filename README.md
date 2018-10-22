@@ -1,5 +1,6 @@
 My scripts for Kaggle's "Quora Question Pairs" competition 
 Competition URL - https://www.kaggle.com/c/quora-question-pairs
+My Kaggle profile - - https://www.kaggle.com/svashishtha
 
 How to run the scripts:
 1. Run all feature-engineering scripts in this order:
@@ -15,5 +16,4 @@ How to run the scripts:
 
 My final standing on the private leaderboard is - 150/3394 (top 5 %)
 
-Got my first Silver medal in this competition! :)
-
+Got my first Silver medal in this competition! :) 
